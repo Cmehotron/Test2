@@ -70,6 +70,10 @@ class MainActivity : AppCompatActivity() {
         return
     }
 
+
+
+    //#########################FERMIUMS####################################
+
 /*
     override fun onTouchEvent(event: MotionEvent?): Boolean {
 
